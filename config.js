@@ -1,7 +1,7 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
-  VITE_CORS_PROXY_URL: "https://movies-r-fun.pancakesarepowerful.workers.dev/",
+  VITE_CORS_PROXY_URL: "https://movies-r-fun.pancakesarepowerful.workers.dev",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiZDNjMTMyZDY5NDdjMzBmZTlkYzU3YmQzOTYwZmMwMiIsInN1YiI6IjY1ZDhlYWQxYjA0NjA1MDE4NzM0NjU0NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.BJpker9n4WN1tnF59WLh_wUplGy11oomrOc1THBSpUs",
